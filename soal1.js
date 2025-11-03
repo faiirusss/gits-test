@@ -6,3 +6,5 @@ function sloane(n) {
   }
   return result;
 }
+
+console.log(sloane(5));

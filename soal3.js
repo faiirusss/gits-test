@@ -39,3 +39,5 @@ function highestPalindrome(s, k) {
   maximize(0, n - 1, result);
   return arr.join("");
 }
+
+console.log(highestPalindrome("3943", 1));
